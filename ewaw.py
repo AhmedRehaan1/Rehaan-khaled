@@ -1,1 +1,2 @@
-print("ewaw")
+print("ewawawawawaw")
+print('lol')
