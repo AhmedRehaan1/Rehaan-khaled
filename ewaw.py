@@ -1,6 +1,3 @@
 print("ewawawawawaw")
 print('lol')
 print("ahmed rehan haypush")
-print('lolllll')
-print('main brranchh')
-print('mainnnnnnnn branchhhhhhhhh')
